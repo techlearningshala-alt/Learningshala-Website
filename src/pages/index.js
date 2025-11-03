@@ -47,7 +47,7 @@ const size = useWindowSize();
   const faqDatas = [
     {
       value: "item-1",
-      question: "How should I judge if this course is actually right for me?",
+      question: "How test should I judge if this course is actually right for me?",
       answer: "Look, you need to notice things which are beyond the syllabus. The right course should align with your career goals, learning style, and budget. Learningshala’s mentors don’t just match you to a program. They help you build a personalised “Career Blueprint” first. We understand your ambitions, skills, and the current job market to find a job that’s not just a good fit, but a strategic move. Don’t just pick a course, pick a direction. ",
     },
     {
